@@ -5,9 +5,9 @@
 <br></br>
 <br></br>
 <br></br>
-Hello, It's my pleasure to introduce myself to you guys.
-I studied Coding.
-while i studied my major I found it's interesting for me so that makes me to study deeply in this field
+<br>Hello, It's my pleasure to introduce myself to you guys.</br>
+<br>I studied Coding.</br>
+<br>while i studied my major I found it's interesting for me so that makes me to study deeply in this field</br>
 <br></br>
 <br></br>
 <br></br>
