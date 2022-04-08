@@ -14,5 +14,5 @@
 <br></br>
 <br></br>
 <br>✨ Skills</br>
-<img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/></br>
  
